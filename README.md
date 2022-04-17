@@ -1,5 +1,8 @@
 ## FrozenArcher
+
+* High school student
+* Archlinux user
+
 ***
-Amateur game developer.
 
 *yhy242989105@hotmail.com*
