@@ -1,6 +1,6 @@
 ## FrozenArcher
 
-* High school student
+* Aerospace @ ZJU
 * Archlinux user
 
 ***
