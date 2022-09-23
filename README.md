@@ -1,6 +1,6 @@
 ## FrozenArcher
 
-* Aerospace @ ZJU
+* Aircraft design & angineering @ ZJU
 * Archlinux user
 
 ***
