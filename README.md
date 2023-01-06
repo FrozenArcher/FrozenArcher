@@ -1,7 +1,7 @@
 ## FrozenArcher
 
 * Aircraft design & engineering @ ZJU
-* Archlinux user
+* Archlinux & Gentoo user
 
 ***
 
