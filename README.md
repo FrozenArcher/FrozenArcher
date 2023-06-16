@@ -2,6 +2,7 @@
 
 * SAA @ ZJU
 * Archlinux & Gentoo user
+* C++, Go, Rust
 
 ***
 
