@@ -1,14 +1,16 @@
 # 👋 Hi, This is FrozenArcher
 
 > Engineering @ Zhejiang University
+>
 > Co-founder & CTO of [Punky](https://www.punky.app)
+> 
 > Full-stack developer & product manager
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrozenArcher&theme=github_dark)
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrozenArcher&theme=github_dark)
 
 ## 🛠️ My tech stack
 
