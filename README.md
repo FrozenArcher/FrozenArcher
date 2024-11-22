@@ -1,12 +1,9 @@
-## FrozenArcher
+# 👋 Hi, This is FrozenArcher
 
-* SAA @ ZJU
-* Archlinux & Gentoo user
-* Go, Rust, Python
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrozenArcher&theme=dark)
 
-***
+## Github stats
 
-## Contact
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrozenArcher&theme=dark)
 
-- yhy242989105@hotmail.com
-- fracher21@gmail.com
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrozenArcher&theme=dark)
