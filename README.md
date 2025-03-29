@@ -2,9 +2,13 @@
 
 > Engineering @ Zhejiang University
 >
-> Co-founder & CTO of [Punky](https://www.punky.app)
+> Co-founder & CTO of [AIMOverse](https://aimoverse.xyz)
+>
+> Author of the Rust AI Agent Framework [Amico](https://www.amico.dev)
 > 
 > Full-stack developer & product manager
+
+**NOTE** This is my personal account. [WORK account](https://github.com/takasaki404)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrozenArcher&theme=github_dark)
 
