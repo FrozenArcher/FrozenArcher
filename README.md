@@ -8,7 +8,7 @@
 > 
 > Full-stack developer & product manager
 
-**NOTE** This is my personal account. [WORK account](https://github.com/takasaki404)
+**WORK account** [github.com/takasaki404](https://github.com/takasaki404)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrozenArcher&theme=github_dark)
 
